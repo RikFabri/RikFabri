@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a hobby ITer studying game development at DAE. I mostly use C++ but exploring new languages and tools is always fun. I love creating things and try to be a jack of all trades!
+
+Check out my personal website [here](www.rikfabri.github.io/)!
 
 <!--
 **RikFabri/RikFabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
