@@ -1,4 +1,4 @@
-#### I'm a hobby ITer studying game development at DAE. I mostly use C++ but exploring new languages and tools is always fun. I love creating things and try to be a jack of all trades!
+#### I'm an audio programmer working at IO-Interatctive. I mostly use C++ but exploring new languages and tools is always fun. I love creating things and try to be a jack of all trades in my spare time!
 
 Check out my personal website [here](www.rikfabri.github.io/)!
 
