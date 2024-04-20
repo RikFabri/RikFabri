@@ -1,6 +1,6 @@
 #### I'm an audio programmer working at IO-Interatctive. I mostly use C++ but exploring new languages and tools is always fun. I love creating things and try to be a jack of all trades in my spare time!
 
-Check out my personal website [here](www.rikfabri.github.io/)!
+Check out my personal website [here](https://rikfabri.github.io/)!
 
 <!--
 **RikFabri/RikFabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
